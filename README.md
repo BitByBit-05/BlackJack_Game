@@ -27,7 +27,7 @@ This is a simple Blackjack game implemented in Java. The game follows the basic 
    ![Starting the Game](https://github.com/BitByBit-05/BlackJack_Game/blob/9499ae3cf311e79a2de1fd484ddafb2256e70da7/Screenshot%202025-02-02%20011125.png)
 
    # Step 2: Making Moves**
-   ![Making Moves]("[C:\Users\AYUSH AHIR\Downloads\Screenshot 2025-02-02 011021.png](https://github.com/your-username/BlackJack_Game/raw/main/Screenshot%202025-02-02%20011021.png)")
+   ![Making Moves](https://github.com/your-username/BlackJack_Game/raw/main/Screenshot%202025-02-02%20011021.png)
 
 ---
 
