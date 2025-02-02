@@ -24,7 +24,7 @@ This is a simple Blackjack game implemented in Java. The game follows the basic 
 6. **Determine Winner**: The game compares the hand values of the player and the dealer to determine the winner.  
 7. **Next Level**: After each round, the player can choose to play the next level or exit the game.
    # Step 1: Starting the Game
-   ![Starting the Game]("C:\Users\AYUSH AHIR\Downloads\Screenshot 2025-02-02 011125.png")
+   ![Starting the Game](https://github.com/BitByBit-05/BlackJack_Game/blob/9499ae3cf311e79a2de1fd484ddafb2256e70da7/Screenshot%202025-02-02%20011125.png)
 
    # Step 2: Making Moves**
    ![Making Moves]("[C:\Users\AYUSH AHIR\Downloads\Screenshot 2025-02-02 011021.png](https://github.com/your-username/BlackJack_Game/raw/main/Screenshot%202025-02-02%20011021.png)")
