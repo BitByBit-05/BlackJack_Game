@@ -22,7 +22,12 @@ This is a simple Blackjack game implemented in Java. The game follows the basic 
 4. **Hit or Stay**: The player can choose to hit (receive another card) or stay (keep their current hand).  
 5. **Dealer's Turn**: After the player's turn, the dealer reveals their second card and hits or stays based on the rules.  
 6. **Determine Winner**: The game compares the hand values of the player and the dealer to determine the winner.  
-7. **Next Level**: After each round, the player can choose to play the next level or exit the game.  
+7. **Next Level**: After each round, the player can choose to play the next level or exit the game.
+   ** Step 1: Starting the Game**
+   ![Starting the Game](https://github.com/your-username/BlackJack_Game/raw/main/image1.png)
+
+   ** Step 2: Making Moves**
+   ![Making Moves](https://github.com/your-username/BlackJack_Game/raw/main/image2.png)
 
 ---
 
