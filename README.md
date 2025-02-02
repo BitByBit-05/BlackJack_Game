@@ -25,9 +25,9 @@ This is a simple Blackjack game implemented in Java. The game follows the basic 
 7. **Next Level**: After each round, the player can choose to play the next level or exit the game.
    # Step 1: Starting the Game
    ![Starting the Game](https://github.com/BitByBit-05/BlackJack_Game/blob/9499ae3cf311e79a2de1fd484ddafb2256e70da7/Screenshot%202025-02-02%20011125.png)
-
    # Step 2: Making Moves**
-   ![Making Moves](https://github.com/your-username/BlackJack_Game/raw/main/Screenshot%202025-02-02%20011021.png)
+   ![Making Moves](https://github.com/BitByBit-05/BlackJack_Game/blob/0f596df76346a6c772a755a0e79a5c7abb989574/Screenshot%202025-02-02%20011021.png
+)
 
 ---
 
